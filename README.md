@@ -20,6 +20,7 @@ I'm a student of Software Engineering who is passionate about building reliable 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oceanmallik&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oceanmallik)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
